@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adarshadmane
+- 👋 Hi, I’m @Adarh-Dhanaji-Adamne
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
